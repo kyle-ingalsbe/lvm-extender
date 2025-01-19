@@ -1,0 +1,2 @@
+# lvm-extender
+ extends lvms
